@@ -1,1 +1,1 @@
-api_key = 'your key here'
+geoapify_key = '349f44d965d94f23816b47b7ec78b372'
