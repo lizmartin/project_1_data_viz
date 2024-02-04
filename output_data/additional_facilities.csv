@@ -1,0 +1,431 @@
+,Facility Name,Categories,Zipcode,Lat,Lng
+0,Evergreen Family Dentistry,"['building', 'building.healthcare', 'healthcare', 'healthcare.dentist']",80437,39.649059199999996,-105.34062100994743
+1,SCL Health Medical Group - Copperleaf,"['building', 'building.healthcare', 'healthcare', 'healthcare.clinic_or_praxis']",80015,39.637975,-104.73415287499999
+2,Reunion Rehabilitational Hospital Inverness,"['healthcare', 'healthcare.hospital']",80112,39.5602991,-104.86468303086059
+3,The Little Clinic,"['healthcare', 'healthcare.clinic_or_praxis']",80026,40.0016322,-105.1014913
+4,Paladina Health,"['healthcare', 'healthcare.clinic_or_praxis']",80202,39.7515501,-105.0026018
+5,Rite Aid,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80121,39.5934714,-104.9588802
+6,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80121,39.5956189,-104.961471
+7,HealthONE,"['healthcare', 'healthcare.clinic_or_praxis']",80202,39.7506666,-105.0010144
+8,Lafayette Eye Associates,"['healthcare', 'healthcare.clinic_or_praxis']",80026,40.0025725,-105.1020487
+9,Lafayette Internal Medicine,"['healthcare', 'healthcare.clinic_or_praxis']",80026,40.0025684,-105.1021506
+10,Lafayette Dentistry,"['healthcare', 'healthcare.dentist']",80026,40.0026547,-105.1021882
+11,King Soopers Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80235,39.6236596,-105.1076791
+12,King Soopers Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80226,39.7095737,-105.0848869
+13,King Soopers Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80228,39.6900765,-105.1196271
+14,Rite Aid,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80232,39.6837647,-105.082782
+15,King Soopers Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80232,39.6816851,-105.0834601
+16,WW Studio,['healthcare'],80027,39.9555715,-105.1680495
+17,Highland Smiles,"['healthcare', 'healthcare.dentist']",80211,39.7620012,-105.0342539
+18,Highlands Healing Arts,['healthcare'],80211,39.7619985,-105.033405
+19,Good Neighbor Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80216,39.7770953,-104.993526
+20,Comfort Dental,"['healthcare', 'healthcare.dentist']",80026,39.9878511,-105.095489
+21,Child First Pediatrics,"['healthcare', 'healthcare.hospital']",80114,39.5840004,-104.8848628
+22,Happy Teeth,"['healthcare', 'healthcare.dentist']",80218,39.7398506,-104.9687311
+23,Walmart Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80231,39.6905922,-104.889003
+24,Kids Family Dentistry,"['healthcare', 'healthcare.dentist']",80232,39.68981,-105.052714
+25,Arbor Dental Group,"['healthcare', 'healthcare.dentist']",80021,39.8766377,-105.0928996
+26,"Mark Stone, M.D.","['healthcare', 'healthcare.clinic_or_praxis']",80457,39.6322151,-105.3203914
+27,King Soopers,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80249,39.7851157,-104.7696222
+28,Walmart Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80130,39.56283,-104.9110594
+29,Arvada vision & eye clinic,"['healthcare', 'healthcare.clinic_or_praxis']",80002,39.8022254,-105.0817276
+30,King Soopers Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80113,39.6539035,-104.9605707
+31,DaVita Dialysis,"['healthcare', 'healthcare.clinic_or_praxis']",80112,39.5870561,-104.867594
+32,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80012,39.697134,-104.847912
+33,Canyon Ridge Pediatric Dentistry,"['healthcare', 'healthcare.dentist']",80134,39.5190819,-104.7703593
+34,Capitol Heights Pharmacy & Liquor,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80206,39.7353903,-104.945861
+35,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80110,39.6245626,-104.986719
+36,Modern Dentistry,"['healthcare', 'healthcare.dentist']",80012,39.6933657,-104.863468
+37,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80011,39.7394625,-104.8091374
+38,Artemesia and Rue,"['commercial', 'commercial.health_and_beauty', 'commercial.health_and_beauty.herbalist', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80273,39.7178748,-104.987315
+39,Outpatient Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80045,39.7423342,-104.8400075
+40,Atrium Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80045,39.742225,-104.8410724
+41,Mile High Primary Care,"['healthcare', 'healthcare.clinic_or_praxis']",80014,39.6761172,-104.812028
+42,Kaiser doctors office,"['healthcare', 'healthcare.clinic_or_praxis', 'wheelchair', 'wheelchair.yes']",80127,39.578162,-105.13629
+43,Concerta Urgent Care,"['healthcare', 'healthcare.clinic_or_praxis']",80020,39.9197168,-105.087717
+44,Speaks Orthodontics,"['healthcare', 'healthcare.dentist']",80211,39.7619024,-105.030336
+45,Sloanside Dental,"['healthcare', 'healthcare.dentist']",80214,39.7487511,-105.0536559
+46,Chiropractor,['healthcare'],80214,39.7486707,-105.0538168
+47,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80218,39.746978,-104.9743463
+48,Central OB/GYN,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7469976,-104.974571
+49,Seton Women's Center,"['healthcare', 'healthcare.clinic_or_praxis']",80205,39.746621910684894,-104.97477040023236
+50,Colorado Dermatology Specialists,"['healthcare', 'healthcare.clinic_or_praxis', 'healthcare.clinic_or_praxis.dermatology']",80218,39.7468945,-104.974571
+51,Sister Joanna Bruner Family Medicine,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7468491,-104.974345
+52,Colorado Gastroenterology,"['healthcare', 'healthcare.clinic_or_praxis', 'healthcare.clinic_or_praxis.gastroenterology']",80218,39.746704,-104.9745704
+53,Denver Medical Associates,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7465761,-104.9745704
+54,Colorado Hernia Center,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7464902,-104.9743457
+55,"Heather Stamm, DDS","['healthcare', 'healthcare.dentist']",80218,39.7464459,-104.974569
+56,Kaiser Permanente,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7463304,-104.974564
+57,"Ann Arrigo, MD","['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7463737,-104.9743477
+58,Comprehensive Breast Care,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.746747,-104.974345
+59,Uptown Healthcare Center,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.745079,-104.9779368
+60,Park Avenue Oculoplastic Surgeons,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7452315,-104.975812
+61,Kidney Stone Center of the Rocky Mountains,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.745148,-104.9758146
+62,Mile High Research Center,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7450758,-104.9725369
+63,Exempla Comprehensive Cancer Center,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7452718,-104.9729245
+64,Saint Joseph Hospital Breast Care Center,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7453285,-104.9728869
+65,Colorado Preventive Research Center,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7454368,-104.9728212
+66,Saint Joseph Clinic Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80218,39.7454986,-104.9727689
+67,Kaiser Permanente Skyline Medical Offices,"['healthcare', 'healthcare.clinic_or_praxis']",80205,39.7477655,-104.97117
+68,Kaiser Permanente Franklin Medical Offices,"['healthcare', 'healthcare.clinic_or_praxis']",80205,39.7477944,-104.969369
+69,Bottenbley Cecil J DMD,"['healthcare', 'healthcare.dentist']",80203,39.7445566,-104.9859171
+70,Denver Mental Health Specialists,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7429762,-104.9841228
+71,Action Spine Denver Sports Medecine,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.742932,-104.9812872
+72,"Dr. Paul L. Legg, DDS","['healthcare', 'healthcare.dentist']",80202,39.7410413,-104.9864163
+73,Denver Behavioral Health Center,"['healthcare', 'healthcare.clinic_or_praxis']",80204,39.7375962,-104.9932524
+74,Chasing The Wind Acupuncture & Holistic Medicine,['healthcare'],80203,39.7342446,-104.9876577
+75,Arapahoe House Adolescent/Adult Outpatient Care,"['healthcare', 'healthcare.clinic_or_praxis']",80204,39.7243186,-104.9887668
+76,Metro Denver Dental Society & Mountain West Dental Institute,"['healthcare', 'healthcare.dentist']",80203,39.7305832,-104.9864466
+77,High Level Health,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7317476,-104.9859634
+78,Golden View Dental,"['healthcare', 'healthcare.dentist']",80225,39.7281299,-105.1290381
+79,Charg Resource Center,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7353268,-104.9783188
+80,The Little Clinic,"['healthcare', 'healthcare.clinic_or_praxis']",80020,39.9168419,-105.054801
+81,Howard Dental Center,"['healthcare', 'healthcare.dentist']",80218,39.7387676,-104.9750902
+82,Noeticus Counseling Center and Training Institute,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7301944,-104.98522
+83,"DR. Carrie Payne, PSY.D., LLC","['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7298406,-104.9851784
+84,Total Long Term Care,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7301096,-104.9845274
+85,Cynergy Chiropractic Health & Wellness,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7316532,-104.9832942
+86,Genesis Physical Therapy and Wellness Center,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7300975,-104.982813
+87,Colorado Physician Health Program,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7302151,-104.9828123
+88,Acupuncture Denver,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7301532,-104.982815
+89,Horizon Chiropratic,"['healthcare', 'healthcare.clinic_or_praxis']",80614,39.9454074,-104.93865
+90,Hilltop Village Dental Care,"['healthcare', 'healthcare.dentist']",80614,39.9440967,-104.9369452
+91,Sherill Sullivan Homeopathic Counseling,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7302199,-104.9777978
+92,Dr. Shea Kamlet Collaborative Therapy,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7303075,-104.9781053
+93,Acupuncture Lounge,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7302926,-104.9781046
+94,Joanna Ford Counseling,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7302459,-104.9781032
+95,Laura Rose Boyle Therapeutic Massage,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7302774,-104.9781046
+96,Sue Boorn Classical Homeopathy,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7302622,-104.9781039
+97,Juanita Ratner Holistic Counseling,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7302954,-104.9777985
+98,Dr. Regina Carlson Psychotherapy,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7302771,-104.9777985
+99,Linda Baird Counseling,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.73044128847119,-104.97811021879508
+100,Mary Eggers Bernuth Psychotherapy & Coaching,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7302377,-104.9777981
+101,Dr. Heather LaChance Energy Psychology,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7302573,-104.9777981
+102,Jill LaLiberte Acupuncture & Reiki,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7302132,-104.9781029
+103,Shiva Coffey Classical Homeopathy,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7303112,-104.9777992
+104,King Soopers Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy', 'wheelchair', 'wheelchair.yes']",80218,39.7309628,-104.9735517
+105,Metro Multi-Disciplinary Doctors,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7259705,-104.9831619
+106,Humble Skin Oncology Skincare,"['healthcare', 'healthcare.clinic_or_praxis']",80203,39.7261136,-104.9783419
+107,Albert Magliolo Clinical Psychologist,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7258263,-104.976627
+108,Jean E Kunin MD,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7257936,-104.9766273
+109,Deborah Lehman MD,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.725758,-104.9766263
+110,David M Hurst MD,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7257263,-104.9766273
+111,Cherubini Chiropractic,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7257191,-104.9755742
+112,Ageless Art Oriental Medicine,"['healthcare', 'healthcare.clinic_or_praxis']",80204,39.7287771,-104.9980332
+113,Colorado Voice Clinic,"['healthcare', 'healthcare.clinic_or_praxis']",80204,39.7271899,-104.9993839
+114,Silk Bamboo Acupuncture Clinic,"['healthcare', 'healthcare.clinic_or_praxis']",80204,39.7301687,-104.9978986
+115,Mental Health Corporation of Denver,"['healthcare', 'healthcare.clinic_or_praxis']",80204,39.7331593,-104.9969212
+116,Auraria Dental Lab,"['healthcare', 'healthcare.dentist']",80204,39.7356191,-104.9985512
+117,Auraria Dental Ceramics,"['healthcare', 'healthcare.dentist']",80204,39.7354605,-104.9989859
+118,Project WISE,"['healthcare', 'healthcare.clinic_or_praxis']",80204,39.7370369,-105.0004539
+119,Transitional Medication LLC,"['healthcare', 'healthcare.clinic_or_praxis']",80204,39.7323386,-105.013471
+120,King Soopers Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80017,39.6952911,-104.8105869
+121,King Soopers Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80015,39.6154852,-104.7584042
+122,Bonfils Blood Center,"['healthcare', 'healthcare.hospital']",80410,39.7442094,-105.1552468
+123,Cherokee Trail Dental,"['healthcare', 'healthcare.dentist']",80016,39.6075706,-104.706767
+124,Perfect Teeth,"['healthcare', 'healthcare.dentist']",80401,39.7395131,-105.194021
+125,Premiere Dental Health,"['healthcare', 'healthcare.dentist']",80016,39.5754563,-104.7255661
+126,Forest Hill Dental Care,"['healthcare', 'healthcare.dentist']",80016,39.5799602,-104.722839
+127,Southlands Dental,"['healthcare', 'healthcare.dentist']",80016,39.6001837,-104.7204306
+128,Saddlerock Pediatric Dentistry,"['healthcare', 'healthcare.dentist']",80016,39.6003327,-104.720419
+129,Physical Therapy,['healthcare'],80016,39.5952629,-104.705437
+130,OnPoint Urgent Care,"['healthcare', 'healthcare.clinic_or_praxis']",80016,39.595266,-104.705114
+131,First Aid,"['healthcare', 'healthcare.clinic_or_praxis']",80016,39.610517,-104.6767459
+132,Pioneer Hills Dental,"['healthcare', 'healthcare.dentist']",80015,39.616722,-104.8159356
+133,Adio Chiropractor,['healthcare'],80015,39.6113759,-104.751612
+134,Perfect Teeth - Smoky Hill,"['healthcare', 'healthcare.dentist']",80015,39.6115227,-104.7516132
+135,Peterson Orthodontics,"['healthcare', 'healthcare.dentist', 'healthcare.dentist.orthodontics']",80234,39.90064,-105.024203
+136,Sloan's Lake Dental,"['healthcare', 'healthcare.dentist']",80211,39.7583325,-105.0219401
+137,Absolute Pain Solutions,"['healthcare', 'healthcare.clinic_or_praxis']",80211,39.7571008,-105.0194394
+138,Wellstone Acupuncture,"['healthcare', 'healthcare.clinic_or_praxis']",80211,39.7564961,-105.0194981
+139,Flourish Family Counseling,['healthcare'],80211,39.7543905,-105.0238414
+140,Midtown Occupational Health Services,"['healthcare', 'healthcare.clinic_or_praxis']",80211,39.7541285,-105.0160809
+141,Healing Vibes Acupuncture & Wellness,"['healthcare', 'healthcare.clinic_or_praxis']",80211,39.7514524,-105.024509
+142,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80211,39.7601124,-105.025752
+143,Walgreens Healthcare Clinic,"['healthcare', 'healthcare.clinic_or_praxis']",80211,39.7600104,-105.025749
+144,Wellspring Natural Health,"['healthcare', 'healthcare.clinic_or_praxis']",80211,39.761972,-105.0355202
+145,Perfect Teeth,"['healthcare', 'healthcare.dentist']",80134,39.5166109,-104.7673672
+146,The Little Clinic,"['healthcare', 'healthcare.clinic_or_praxis']",80215,39.764071,-105.1401546
+147,Fischer Medical,"['healthcare', 'healthcare.clinic_or_praxis']",80215,39.7689806,-105.1419689
+148,Nerve Watch Intraoperative Neuromonitoring,"['healthcare', 'healthcare.clinic_or_praxis']",80215,39.7688836,-105.141831
+149,Allegro Orthodontics,"['healthcare', 'healthcare.dentist']",80134,39.52681825998309,-104.7688532379335
+150,Front Range foot and Ankle Clinic,"['healthcare', 'healthcare.clinic_or_praxis']",80134,39.5308229,-104.767576
+151,Parker Modern Dentistry and Orthodontics,"['healthcare', 'healthcare.dentist']",80134,39.5375526,-104.768939
+152,Planned Parenthood,"['healthcare', 'healthcare.clinic_or_praxis']",80134,39.5445804,-104.772954
+153,Elitch Gardens First Aid Clinic,"['healthcare', 'healthcare.clinic_or_praxis']",80204,39.7517518,-105.0105893
+154,Highland Health and Wellness Center,"['healthcare', 'healthcare.clinic_or_praxis']",80211,39.7623322,-105.036578
+155,Functional Physical Therapy,"['healthcare', 'healthcare.clinic_or_praxis']",80212,39.765595,-105.0442078
+156,Colorado Center for Egg Donation,"['healthcare', 'healthcare.clinic_or_praxis']",80138,39.5497782,-104.772144
+157,Neurology of the Rockies,"['healthcare', 'healthcare.clinic_or_praxis']",80138,39.5496963,-104.772163
+158,Rocky Mountain Fertility Center,"['healthcare', 'healthcare.clinic_or_praxis']",80138,39.5497215,-104.771984
+159,DTC Family Health,"['healthcare', 'healthcare.clinic_or_praxis']",80111,39.6208726,-104.8919118
+160,Highlands Family Medicine,"['healthcare', 'healthcare.clinic_or_praxis']",80212,39.7691865,-105.0453006
+161,VIDA Chiropractic Studio,"['healthcare', 'healthcare.clinic_or_praxis']",80212,39.7684702,-105.0472277
+162,Rose Women's Care,"['healthcare', 'healthcare.clinic_or_praxis']",80212,39.7684711,-105.0470427
+163,Comfort Dental,"['healthcare', 'healthcare.dentist']",80004,39.8123581,-105.1371598
+164,Highland Dental Care,"['healthcare', 'healthcare.dentist']",80211,39.7693486,-105.037482
+165,Clinica Latinoamericana de Salud,"['healthcare', 'healthcare.clinic_or_praxis']",80212,39.7693022,-105.0407797
+166,The Joint Chiropractic,['healthcare'],80134,39.5347822,-104.790438
+167,Sierra Dental,"['healthcare', 'healthcare.dentist']",80212,39.7744214,-105.0443777
+168,Aurora Center for Treatment,['healthcare'],80011,39.7417946,-104.8104319
+169,Village Orthodontics,"['healthcare', 'healthcare.dentist', 'healthcare.dentist.orthodontics']",80016,39.6105156,-104.808772
+170,Midtown Obstetrics/Gynecology,"['healthcare', 'healthcare.clinic_or_praxis']",80212,39.7672971,-105.0438266
+171,Walmart Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80015,39.6135359,-104.8118351
+172,La Casa/ Quigg Newton Community Health Center,"['healthcare', 'healthcare.clinic_or_praxis']",80211,39.7788904,-105.0047852
+173,Murray Brown Labs,['healthcare'],80211,39.7737954,-104.9991803
+174,Highlands Sport and Spine,['healthcare'],80211,39.7694321,-105.0056476
+175,Ritualcravt,['healthcare'],80211,39.7724804,-105.0110902
+176,Highlands Health For Life,"['healthcare', 'healthcare.clinic_or_praxis']",80211,39.773137,-105.011082
+177,Chaffee Family Physicians,"['healthcare', 'healthcare.clinic_or_praxis']",80211,39.7818555,-105.0107614
+178,"Dr. Floyd B. Russak, MD","['healthcare', 'healthcare.clinic_or_praxis']",80111,39.6234533,-104.8935449
+179,Federal Healthcare Family Clinic,"['healthcare', 'healthcare.clinic_or_praxis']",80211,39.7733849,-105.0249514
+180,Healing Village,['healthcare'],80211,39.7765066,-105.0238876
+181,M3 Chiropractic & Wellness,['healthcare'],80211,39.7766823,-105.0166135
+182,RockSalt Spa,['healthcare'],80211,39.7766947,-105.0167114
+183,Northglenn Smiles Dentistry and Orthodontics,"['healthcare', 'healthcare.dentist']",80233,39.9136942,-104.9857162
+184,CSL Plasma,"['healthcare', 'healthcare.clinic_or_praxis']",80233,39.9125648,-104.9761863
+185,My Dentist,"['healthcare', 'healthcare.dentist']",80241,39.9157942,-104.941004
+186,Higher Health Chiropractic,"['healthcare', 'healthcare.clinic_or_praxis']",80134,39.5357368,-104.8481565
+187,Total Orthodontics,"['healthcare', 'healthcare.clinic_or_praxis']",80124,39.5375519,-104.8738556
+188,Total Orthodontics,"['healthcare', 'healthcare.clinic_or_praxis']",80237,39.6236154,-104.8935865
+189,The Joint Chiropractic,['healthcare'],80020,39.9120535,-105.051451
+190,Highlands Integrative Pediatrics,"['healthcare', 'healthcare.clinic_or_praxis']",80211,39.7612891,-105.0089525
+191,Whole Health,"['healthcare', 'healthcare.clinic_or_praxis']",80126,39.5457102,-104.9423932
+192,"Kids First Dental, Dr Berween Mourady","['healthcare', 'healthcare.dentist']",80126,39.5441142,-104.9417894
+193,"Visage Dental, Dr. Koheil","['healthcare', 'healthcare.dentist']",80126,39.5440593,-104.9417488
+194,Tennyson Pediatric Dentistry,"['healthcare', 'healthcare.dentist']",80212,39.7764674,-105.0441323
+195,Colorado Osteopathic & Integrative Medicine,"['healthcare', 'healthcare.clinic_or_praxis']",80212,39.769512,-105.0500506
+196,Shakti Whole Health Studio,['healthcare'],80212,39.7766782,-105.0511178
+197,New West Physicians,"['healthcare', 'healthcare.clinic_or_praxis']",80211,39.7757333,-105.0351133
+198,Denver Speech & Language Therapists,"['healthcare', 'healthcare.clinic_or_praxis']",80211,39.7756047,-105.0347956
+199,Dixon Orthodontics,"['healthcare', 'healthcare.dentist']",80021,39.87693336450436,-105.09361401079173
+200,Samana Float Center,['healthcare'],80205,39.7589014,-104.9854662
+201,Lotus Acupuncture Studio,['healthcare'],80211,39.7768733,-105.034075
+202,AAA Family Dental Center,"['healthcare', 'healthcare.dentist']",80211,39.7696863,-105.0372789
+203,Wolff Child Psychology,"['healthcare', 'healthcare.clinic_or_praxis']",80211,39.7696567,-105.0310631
+204,AFC Urgent Care,"['healthcare', 'healthcare.clinic_or_praxis']",80211,39.7695493,-105.0297837
+205,Access Medical Weight Loss Clinic,"['healthcare', 'healthcare.clinic_or_praxis']",80211,39.7694892,-105.0273734
+206,Retro Dental Group,"['healthcare', 'healthcare.dentist']",80211,39.7694695,-105.025998
+207,Icon Dental Denver,"['healthcare', 'healthcare.dentist', 'wheelchair', 'wheelchair.yes']",80202,39.7484863,-105.0003699
+208,Bright Eyes Vision Clinic,"['healthcare', 'healthcare.clinic_or_praxis']",80229,39.8694539,-104.9792338
+209,City Place Modern Dentistry & Orthodontics,"['healthcare', 'healthcare.dentist']",80017,39.7146782,-104.8197429
+210,Target Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80012,39.7154262,-104.8224492
+211,Concorde Dental Clinic,"['healthcare', 'healthcare.dentist']",80230,39.7189212,-104.866484
+212,Mountain View Dental,"['healthcare', 'healthcare.dentist']",80211,39.7800678,-105.03444
+213,Abundant Smiles,"['healthcare', 'healthcare.dentist']",80211,39.769102,-105.0013389
+214,Wellmore Family Practice,"['healthcare', 'healthcare.clinic_or_praxis']",80033,39.7701619,-105.0833976
+215,Clínica Tepeyac,"['healthcare', 'healthcare.clinic_or_praxis']",80216,39.7886231,-104.9867142
+216,Cornerstone Dental & Orthodontics,"['healthcare', 'healthcare.dentist']",80134,39.5145057,-104.7922872
+217,Summit Orthodontics,"['healthcare', 'healthcare.dentist']",80134,39.5135359,-104.791432
+218,Omni Eye Specialists,"['healthcare', 'healthcare.clinic_or_praxis']",80206,39.7174127,-104.9464386
+219,The Joint Chiropractic,['healthcare'],80222,39.6674969,-104.938144
+220,Pharmaca,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80121,39.609335,-104.957327
+221,Orchard Dental Group,"['healthcare', 'healthcare.dentist']",80023,39.9584873,-104.9933461
+222,My Kid's Dentist & Orthodontics,"['healthcare', 'healthcare.dentist']",80023,39.9583568,-104.9933877
+223,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80273,39.7188609,-104.987106
+224,Dayspring Villa,"['healthcare', 'service', 'service.social_facility']",80212,39.7555377,-105.0371659
+225,Highlands Dentists,"['healthcare', 'healthcare.dentist']",80211,39.7693035,-105.0315881
+226,Aim High Chiropractic,['healthcare'],80214,39.7536649,-105.0529173
+227,"Malcolm E Boone, DDS","['healthcare', 'healthcare.dentist']",80214,39.7542093,-105.0528918
+228,Biotic Breath,"['healthcare', 'healthcare.dentist']",80231,39.6518284,-104.9034084
+229,South Shore Dental,"['healthcare', 'healthcare.dentist']",80204,39.7412334,-105.0419661
+230,Belleview Dentist,"['healthcare', 'healthcare.dentist']",80237,39.6244072,-104.9060584
+231,Sloan's Lake Rehabilitation Center,['healthcare'],80204,39.7433919,-105.0349528
+232,The Brain and Behavior Clinic,"['healthcare', 'healthcare.clinic_or_praxis']",80204,39.7435837,-105.0349635
+233,West Berkeley Lake,"['healthcare', 'healthcare.dentist']",80212,39.7770307,-105.0593664
+234,Generations Dentistry,"['healthcare', 'healthcare.dentist']",80002,39.8023901,-105.093144
+235,Rocky Mountain Orthodontics,"['healthcare', 'healthcare.dentist']",80204,39.7398377,-104.9962056
+236,Denver Youth Dentistry,"['healthcare', 'healthcare.dentist']",80204,39.7382828,-105.0261404
+237,Mental Health Corporation of Denver,"['healthcare', 'healthcare.clinic_or_praxis']",80204,39.7382251,-105.0257434
+238,Perfect Teeth,"['healthcare', 'healthcare.dentist']",80224,39.6992125,-104.9066093
+239,Dova Center for Health and Healing,"['healthcare', 'healthcare.clinic_or_praxis']",80027,39.9603225,-105.1639022
+240,Comfort Dental,"['healthcare', 'healthcare.dentist']",80027,39.960613,-105.1642732
+241,Children's Medical Center,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7423721,-104.9725955
+242,Restorative Pathways,['healthcare'],80218,39.7442291,-104.9724287
+243,Atlas Physical Therapy,['healthcare'],80218,39.7435567,-104.9717878
+244,Unity Acupuncture,['healthcare'],80205,39.7496199,-104.9711899
+245,Kaiser Permanente Highline Behavioral Health Center,"['healthcare', 'healthcare.clinic_or_praxis']",80230,39.7089587,-104.867739
+246,Platte Canyon Dental Care,"['healthcare', 'healthcare.dentist']",80123,39.6085483,-105.0363286
+247,CVS Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80202,39.7551246,-105.0005983
+248,King Soopers Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80202,39.7572514,-104.9989215
+249,Parker Center for Audiology,['healthcare'],80134,39.512022670652925,-104.77075772982784
+250,Rock Chiropratic,['healthcare'],80134,39.5123179,-104.77097
+251,Mountain Dental,"['healthcare', 'healthcare.dentist']",80134,39.5118623,-104.7719065
+252,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80024,39.8064669,-104.932292
+253,Look Optical,['healthcare'],80239,39.7840846,-104.8086231
+254,King Soopers Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80134,39.5596241,-104.7833683
+255,South East Counciling & Coaching,['healthcare'],80015,39.6097051,-104.7511008
+256,Periodontics & Dental Implants,"['healthcare', 'healthcare.dentist']",80015,39.6097338,-104.7513598
+257,High Country Dental,"['healthcare', 'healthcare.dentist']",80015,39.6097349,-104.7514816
+258,Advanced Orthodontics,"['healthcare', 'healthcare.dentist']",80016,39.6052139,-104.716429
+259,CT Family Chiropractice,['healthcare'],80016,39.6055109,-104.714758
+260,Family 1st Dental,"['healthcare', 'healthcare.dentist']",80016,39.6055061,-104.7145352
+261,Body Image Physical Therapy,['healthcare'],80016,39.6054486,-104.7150538
+262,Comfort Dental,"['healthcare', 'healthcare.dentist']",80204,39.7308367,-105.0254643
+263,Clinica Tepeyac,"['healthcare', 'healthcare.clinic_or_praxis']",80216,39.7825541,-104.9648842
+264,Esprit Woman Care,"['healthcare', 'healthcare.clinic_or_praxis']",80138,39.5486595,-104.7707825
+265,Advanced Pediatric Associates,"['healthcare', 'healthcare.clinic_or_praxis', 'healthcare.clinic_or_praxis.paediatrics']",80138,39.5486409,-104.7704794
+266,Directions Parker Endocrinology,"['healthcare', 'healthcare.clinic_or_praxis', 'healthcare.clinic_or_praxis.endocrinology']",80138,39.5486285,-104.7703775
+267,"Podiatry Associates, P.C.","['healthcare', 'healthcare.clinic_or_praxis']",80138,39.5486491,-104.7706484
+268,Lakefront Eye Care,['healthcare'],80214,39.7473476,-105.0551838
+269,UCHealth Highlands Ranch Hospital,"['healthcare', 'healthcare.hospital']",80129,39.5522109,-105.005541
+270,Austin Chiropractic,['healthcare'],80027,39.9652718,-105.1614907
+271,Advanced Urgent Care,"['healthcare', 'healthcare.clinic_or_praxis']",80234,39.884591,-104.9994043
+272,Colorado Heart Clinic,"['healthcare', 'healthcare.clinic_or_praxis']",80138,39.5291911,-104.7657013
+273,Comfort Dental,"['healthcare', 'healthcare.dentist']",80122,39.5742571,-104.9890177
+274,SCL Medical Group,"['healthcare', 'healthcare.clinic_or_praxis']",80016,39.5989798,-104.7129454
+275,Bright Now! Dental,"['healthcare', 'healthcare.dentist']",80016,39.6002688,-104.7088916
+276,Cozy Dental,"['healthcare', 'healthcare.dentist']",80012,39.7047577,-104.8251185
+277,King Soopers Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80134,39.5361485,-104.7904998
+278,UCHealth Sterling Ranch Medical Center,"['healthcare', 'healthcare.hospital']",80125,39.5068577,-105.0374595
+279,Shift Chiropratic,['healthcare'],80211,39.7577155,-105.0107111
+280,DaVita Dialysis,"['healthcare', 'healthcare.clinic_or_praxis']",80123,39.6158575,-105.095752
+281,Select Physical Therapy,['healthcare'],80123,39.6165434,-105.0928133
+282,Broadlands Family Dentistry,"['healthcare', 'healthcare.dentist']",80023,39.9567749,-105.038509
+283,Downtown Denver Dental,"['healthcare', 'healthcare.dentist']",80202,39.7481613,-104.9948215
+284,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80016,39.5943947,-104.797661
+285,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80129,39.5498898,-104.9924746
+286,Kaiser Permanente Innovation Lab,['healthcare'],80216,39.7708735,-104.9784655
+287,Bright Now! Dental,"['healthcare', 'healthcare.dentist']",80202,39.7514431,-104.991328
+288,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80226,39.7115608,-105.0811366
+289,Rite Aid,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80228,39.7109237,-105.1317777
+290,Diane Fuller DDS,"['healthcare', 'healthcare.dentist']",80224,39.6526388,-104.9075827
+291,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80241,39.914425,-104.9397394
+292,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80229,39.8557251,-104.9788468
+293,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80015,39.6121141,-104.7545766
+295,Cherry Hills Assisted Living & Memory Care,"['healthcare', 'healthcare.hospital']",80121,39.6020058,-104.960809
+296,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80017,39.697399,-104.8091296
+297,CVS Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80033,39.787845,-105.1127954
+298,North Boulder Physical Therapy,"['healthcare', 'healthcare.clinic_or_praxis']",80234,39.9165081,-105.022337
+299,Layne Physical Therapy,"['healthcare', 'healthcare.clinic_or_praxis']",80215,39.75667025828951,-105.14245024390934
+300,North Boulder Physical Therapy,"['healthcare', 'healthcare.clinic_or_praxis']",80027,39.9510105,-105.152608
+301,AFC Urgent Care,"['healthcare', 'healthcare.clinic_or_praxis']",80228,39.707417,-105.1362802
+302,Sweetpea Children's Dentistry,"['healthcare', 'healthcare.dentist']",80134,39.5370411,-104.7942864
+303,Colorado Family Doula,['healthcare'],80210,39.6897266,-104.9423989
+304,Kidney Stone Center,"['healthcare', 'healthcare.clinic_or_praxis']",80113,39.6524972,-104.9714738
+305,Proactive Podiatry,"['healthcare', 'healthcare.clinic_or_praxis']",80113,39.6523987,-104.9714951
+306,Cherry Hills Surgery Center,"['healthcare', 'healthcare.clinic_or_praxis']",80113,39.6526503,-104.9714657
+307,Clarity Lazer Vision Center,"['healthcare', 'healthcare.clinic_or_praxis']",80113,39.6523105,-104.9714973
+308,Mountain Midwifery Center,"['healthcare', 'healthcare.clinic_or_praxis']",80113,39.6525634,-104.9714936
+309,Stretch Lab,['healthcare'],80222,39.6518454,-104.9284915
+310,Elite Chiropractic,['healthcare'],80222,39.6515554,-104.9288634
+311,ATA Dental,"['healthcare', 'healthcare.dentist']",80203,39.7245969,-104.9864479
+312,AFC Urgent Care,"['healthcare', 'healthcare.clinic_or_praxis']",80110,39.6535386,-104.99859
+313,Dental,"['healthcare', 'healthcare.clinic_or_praxis']",80229,39.873786,-104.9821189
+314,Potomac Primary Care,"['healthcare', 'healthcare.clinic_or_praxis']",80012,39.6915096,-104.8300643
+315,Rocky Mountain ENT Associates,"['healthcare', 'healthcare.clinic_or_praxis']",80012,39.6913011,-104.8299463
+316,Inivision Sally Jobe,"['healthcare', 'healthcare.clinic_or_praxis']",80012,39.6910411,-104.8299731
+317,Western Orthopaedics,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7453985,-104.9680974
+318,Eating Recovery Center,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7453407,-104.9680969
+319,Denver Surgery Center,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7452938,-104.9680966
+320,Birth Center Of Denver,"['healthcare', 'healthcare.clinic_or_praxis']",80218,39.7452423,-104.9680962
+321,Mollner Dentistry,"['healthcare', 'healthcare.dentist']",80203,39.7318245,-104.9865709
+322,Kaiser Permanente Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80004,39.7827716,-105.1397583
+323,Advanced Dental,"['healthcare', 'healthcare.dentist']",80260,39.8495646,-105.0056803
+324,Town Medical Center,['healthcare'],80012,39.7042248,-104.8266238
+325,Affordable Dentures & Implants,"['healthcare', 'healthcare.dentist']",80014,39.6752622,-104.844848
+326,Walmart Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80112,39.5909298,-104.862666
+327,Denver Place Dentistry,"['healthcare', 'healthcare.dentist']",80202,39.749511,-104.9913904
+328,Aguirre Specialty Care,"['healthcare', 'healthcare.clinic_or_praxis']",80134,39.5348826,-104.8511251
+329,Reunion Smiles Dentistry,"['healthcare', 'healthcare.dentist']",80640,39.8858049,-104.8106006
+330,Heatherridge Chiropractic,['healthcare'],80014,39.6743829,-104.8323282
+331,Dermatology Associates of Colorado,"['healthcare', 'healthcare.clinic_or_praxis']",80112,39.5441357,-104.8599905
+332,Walmart Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80011,39.762031,-104.7753366
+333,Walmart Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80207,39.7689982,-104.8970962
+334,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80238,39.7598834,-104.9019594
+335,ICON Eyecare,['healthcare'],80112,39.541028,-104.867798
+336,DaVita Dialysis,"['healthcare', 'healthcare.clinic_or_praxis']",80112,39.5406011,-104.866143
+337,CVS Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80016,39.5814285,-104.7214451
+338,Comfort Dental,"['healthcare', 'healthcare.dentist']",80249,39.7832555,-104.7685967
+339,Arvada Dental Center,"['healthcare', 'healthcare.dentist']",80002,39.7923774,-105.0793528
+340,NextCare Urgent Care,"['healthcare', 'healthcare.clinic_or_praxis']",80002,39.7888757,-105.0786529
+341,Simple Smiles Dental,"['healthcare', 'healthcare.dentist']",80226,39.7120814,-105.0546932
+342,Telacris Plasma Resources,['healthcare'],80226,39.7132692,-105.0545733
+343,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80130,39.5416127,-104.9122747
+344,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80110,39.661516,-104.9871412
+345,Lotus Dental,"['healthcare', 'healthcare.dentist']",80138,39.5579102,-104.777723
+346,CVS Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80124,39.5354164,-104.883998
+347,TKS Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80249,39.7842001,-104.7654682
+348,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80601,39.9873585,-104.7996994
+349,HopeBridge,['healthcare'],80214,39.741794402755914,-105.06616083454236
+350,Walmart Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80123,39.6365026,-105.0839492
+351,CVS Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80123,39.6103635,-105.1014549
+352,South Glenn Modern Dentistry,"['healthcare', 'healthcare.dentist']",80121,39.5947931,-104.9617158
+353,Kroger Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80246,39.7024283,-104.9413163
+354,The Joint Chiropractic,['healthcare'],80226,39.7090697,-105.0752648
+355,SlimGenics,['healthcare'],80226,39.7120123,-105.0757172
+356,CVS Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80007,39.849819,-105.1646214
+357,panorama physical therapy,['healthcare'],80007,39.863551,-105.2040803
+358,Smoky Hill Family Dentistry,"['healthcare', 'healthcare.dentist']",80015,39.6284459,-104.794972
+359,Walgreens,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80114,39.5677135,-104.9051348
+360,Horizon Pediatrics,"['healthcare', 'healthcare.clinic_or_praxis']",80249,39.7832585,-104.7688456
+361,Health One Urgent Care,"['healthcare', 'healthcare.clinic_or_praxis']",80249,39.7842832,-104.7658217
+362,Li'l Teeth Dentistry,"['healthcare', 'healthcare.dentist']",80249,39.7648282,-104.775274
+363,Salida Smiles,"['healthcare', 'healthcare.dentist']",80249,39.7648609,-104.7755447
+364,Good Chemistry,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80203,39.7398823,-104.982565
+365,Cortland Dentistry,"['healthcare', 'healthcare.dentist']",80124,39.5495046,-104.871523
+366,CVS Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80127,39.6090581,-105.1089972
+367,Perfect Teeth,"['healthcare', 'healthcare.dentist']",80015,39.6375809,-104.7927249
+368,Zap Laser Center,"['healthcare', 'healthcare.clinic_or_praxis']",80014,39.6406858,-104.8271404
+369,Total Wellness Center,"['healthcare', 'healthcare.clinic_or_praxis']",80014,39.6423315,-104.8276868
+370,West Littleton Health Center,"['healthcare', 'healthcare.hospital']",80127,39.5970046,-105.1091928
+371,Kathleen Sander OBGYN,"['healthcare', 'healthcare.clinic_or_praxis']",80207,39.7709482,-104.9064796
+372,Walmart Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80134,39.5140259,-104.7677491
+373,Walmart Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80015,39.625533,-104.7942626
+374,Workwell Occupational Medicine,"['healthcare', 'healthcare.clinic_or_praxis']",80010,39.765307,-104.846412
+375,Wesminster dental care,"['healthcare', 'healthcare.dentist']",80003,39.840543,-105.0527301
+376,Biotic Breath Probiotic Dentistry,"['healthcare', 'healthcare.dentist']",80003,39.840512,-105.0528108
+377,Sierk Children’s Dentistry - Castle Pines,"['healthcare', 'healthcare.dentist']",80108,39.4705947,-104.8796211
+378,"Jason Chu, MD | Family Medicine","['healthcare', 'healthcare.clinic_or_praxis']",80108,39.4704908,-104.8819778
+379,Castle Pines Orthodontics,"['healthcare', 'healthcare.dentist', 'healthcare.dentist.orthodontics']",80108,39.4705686,-104.8818317
+380,Canyon Ridge Chiropractic,['healthcare'],80108,39.4684258,-104.8802947
+381,Brandon Linn Orthodontics,"['healthcare', 'healthcare.dentist', 'healthcare.dentist.orthodontics']",80108,39.470609,-104.8795678
+382,Clear Dental Studio,"['healthcare', 'healthcare.dentist']",80027,39.9303261,-105.1265327
+383,Premier Physical Therapy,['healthcare'],80031,39.8631534,-105.0508303
+384,Grandview Dental,"['healthcare', 'healthcare.dentist']",80016,39.593459,-104.7432112
+385,Espire Dental,"['healthcare', 'healthcare.dentist']",80266,39.7860986,-104.891382
+386,Modern Dentistry of Northfield,"['healthcare', 'healthcare.dentist']",80266,39.786024,-104.892745
+387,Baldwin Family Chiropractic,['healthcare'],80015,39.6091768,-104.7430594
+388,Vantage Pointe Dental,"['healthcare', 'healthcare.dentist']",80020,39.9404655,-105.1268647
+389,Connected Health Centennial,['healthcare'],80015,39.6143229,-104.7561819
+390,Aurora Pediatric Dentistry,"['healthcare', 'healthcare.dentist']",80015,39.6142251,-104.7546298
+391,Jeziorski Janet,"['healthcare', 'healthcare.dentist']",80015,39.6141646,-104.7546486
+392,Relaxing Corner,['healthcare'],80015,39.6199382,-104.7724581
+393,Smoky Hill Dental,"['healthcare', 'healthcare.dentist']",80015,39.6199331,-104.772208
+394,Glacier Peak Dentistry,"['healthcare', 'healthcare.dentist']",80241,39.9135565,-104.9225156
+395,Emergency Room,"['healthcare', 'healthcare.hospital']",80210,39.6708975,-104.9750283
+396,Heather Park Dental Care,"['healthcare', 'healthcare.dentist']",80016,39.6034459,-104.8063334
+397,Rocky Mountain Spine & Sport Physical Therapy Centennial,"['healthcare', 'office']",80016,39.6041541,-104.8063096
+398,Signature Dentistry Centennial,"['healthcare', 'healthcare.dentist']",80016,39.5955403,-104.8042966
+399,Apex Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80012,39.697075008487424,-104.84304390657762
+400,Prime Omnicare Aurora (Urgent Care),"['healthcare', 'healthcare.clinic_or_praxis']",80012,39.6977221,-104.8467035
+401,Comfort Dental,"['healthcare', 'healthcare.dentist']",80012,39.6985753,-104.8468681
+402,Perfect Teeth,"['healthcare', 'healthcare.dentist']",80012,39.6972867,-104.8580105
+403,Generations,"['healthcare', 'healthcare.clinic_or_praxis', 'healthcare.clinic_or_praxis.gynaecology']",80012,39.6970521,-104.8579912
+404,Mountain View Pain Center,"['healthcare', 'healthcare.clinic_or_praxis']",80015,39.5907032,-104.8006132
+405,Sound Relief Tinnitus & Hearing Center | Audiologist,['healthcare'],80016,39.6104813,-104.8088644
+406,Meadow Hills Dentist,"['healthcare', 'healthcare.dentist']",80015,39.6253574,-104.8228174
+407,CU Healthcare Partners,"['healthcare', 'healthcare.clinic_or_praxis']",80015,39.6248481,-104.8225186
+408,Centennial Pediatrics,"['healthcare', 'healthcare.clinic_or_praxis', 'healthcare.clinic_or_praxis.paediatrics']",80016,39.6101981,-104.8082904
+409,Grady Chiropractic,['healthcare'],80015,39.6114845,-104.8101069
+410,National Vision,['healthcare'],80015,39.6138967,-104.8121006
+411,EyeCare Specialties of Colorado - Pioneer Hills,['healthcare'],80015,39.6154254,-104.8143829
+412,City Center Chiropractic,['healthcare'],80017,39.7063576,-104.8093419
+413,Advanced Orthodontics,"['healthcare', 'healthcare.dentist', 'healthcare.dentist.orthodontics']",80015,39.6252147,-104.7927386
+414,Access Dental,"['healthcare', 'healthcare.dentist']",80017,39.6918978,-104.8094635
+415,Southeast Aurora Chiropractic,['healthcare'],80015,39.627792,-104.79479
+416,Comfort Dental,"['healthcare', 'healthcare.dentist']",80015,39.6394117,-104.7893313
+417,Concentra,"['healthcare', 'healthcare.clinic_or_praxis']",80239,39.7697521,-104.8110516
+418,5th Ave Smile,"['healthcare', 'healthcare.dentist']",80238,39.7483041,-104.8774326
+419,Broomfield Dental Co.,"['healthcare', 'healthcare.dentist']",80020,39.921049,-105.0870506
+420,i-Orthodontics Aurora,"['healthcare', 'healthcare.dentist', 'healthcare.dentist.orthodontics']",80015,39.6255526,-104.8229707
+421,Discover Health and Wellness,['healthcare'],80015,39.6250675,-104.8227182
+422,DaVita Dialysis,"['healthcare', 'healthcare.clinic_or_praxis']",80017,39.7065845,-104.807631
+423,Cottonwood Orthodontics,"['healthcare', 'healthcare.dentist', 'healthcare.dentist.orthodontics']",80138,39.5563551,-104.7779189
+424,Parker Kidney Center,"['healthcare', 'healthcare.clinic_or_praxis']",80138,39.557238,-104.7779997
+425,Costco Pharmacy,"['commercial.health_and_beauty', 'commercial.health_and_beauty.pharmacy', 'healthcare', 'healthcare.pharmacy']",80239,39.7805733,-104.7975677
+426,Concise Chiropractic,['healthcare'],80016,39.5956486,-104.8196645
+427,Stonebrook Family Dental,"['healthcare', 'healthcare.dentist']",80016,39.5956504,-104.8194196
+428,Chiro Now,['healthcare'],80020,39.9292151,-105.0915771
+443,911 Clinic,"['healthcare', 'healthcare.clinic_or_praxis']",80260,39.88001745,-104.9938961726183
+466,Cherry Crest Shopette,"['healthcare', 'healthcare.dentist']",80121,39.6086166,-104.960455
