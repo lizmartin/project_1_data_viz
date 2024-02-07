@@ -64,7 +64,7 @@ Folders:
 4. zipcode_by_city_name.ipynb
 
 **Root level files**:
-1. main_project1_final_doc - Lisa's work for building data frame and making API call for data from State of Colorado. Everyone's work: Overall developmentLisa plan. 
+1. main_project1_final_doc - Everyone's work: Overall development plan. Lisa's work for building data frame and making API call for data from State of Colorado.  
 2. question_1_vis_final.ipynb - Lisa's work for visualizations
 3. question_2_vis.ipynb - Liz's work for visualizations
 4. question_3_vis.ipynb - Kelsy's work for visualizations
