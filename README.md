@@ -49,11 +49,11 @@ Folders:
 2. Liz completed question 2
     income_hcf_by_denver_zip.png
     income_scatter.png
-3. Kelsey completed question 3 
+3. Kelsy completed question 3 
     med_age_and_facilities_multi_bar.png
     med_age_and_facilities_scatter.png
 
-**wheelchair_questions**: contains Kelsey Dysart's preliminary work to explore wheelchair access on 
+**wheelchair_questions**: contains Kelsy Dysart's preliminary work to explore wheelchair access on 
 1. test_geo_healthcare.ipynb tests with limited set what results will look like
 2. test_geo_healthcare_wheelchair.ipynb gives a sample of the results for limiting the condition to wheelchair access
 
